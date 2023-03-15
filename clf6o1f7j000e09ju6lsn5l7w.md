@@ -1,5 +1,6 @@
 ---
 title: "数字精简 #0"
+seoTitle: "产品,效率工具,数字精简,数字极简,Digital Minimalism, minimalism, product hunt, tool"
 datePublished: Mon Mar 13 2023 10:12:35 GMT+0000 (Coordinated Universal Time)
 cuid: clf6o1f7j000e09ju6lsn5l7w
 slug: 0
