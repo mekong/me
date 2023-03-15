@@ -3,7 +3,7 @@ title: "数字精简 #0"
 seoTitle: "产品,效率工具,数字精简,数字极简,Digital Minimalism, minimalism, product hunt, tool"
 datePublished: Mon Mar 13 2023 10:12:35 GMT+0000 (Coordinated Universal Time)
 cuid: clf6o1f7j000e09ju6lsn5l7w
-slug: 0
+slug: dimi0
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678702424400/91e0cbb5-741b-4b5c-a79c-28f7d46697b8.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1678702328771/2c9fe4d1-440e-4693-817c-3fec7a149d4c.jpeg
 tags: app, mac, 5pww5a2x57k566a, 5lqn5zob, 5pwi546h5bel5yw3
